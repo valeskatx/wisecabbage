@@ -97,7 +97,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+.orbit-container, .orbit img {
+    width: 400px;
+    height: 300px;
+}
 
 
 
